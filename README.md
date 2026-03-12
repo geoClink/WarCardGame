@@ -8,11 +8,6 @@ An interactive SwiftUI implementation of the classic card game "War" for iOS and
 - Lightweight game logic suitable for learning and extension.
 - App entry point using the SwiftUI App lifecycle (`WarCardGameApp`).
 
-## Screenshots
-(Place screenshots in `Assets.xcassets` and reference them here. Example placeholders are used below.)
-
-![App Screenshot - Main](/WarCardGame/WarCardGame/Assets.xcassets/Logo/logo.svg)
-
 ## Getting Started
 Requirements:
 - Xcode 12 or later (recommended latest stable Xcode for best SwiftUI support)
@@ -35,13 +30,3 @@ To run the app:
 
 ## Contributing
 Contributions welcome. Open an issue or submit a pull request with improvements, bug fixes, or new features.
-
-## License
-This project is provided under the MIT License. Replace with a different license if required.
-
-## Keywords
-war card game swift swiftui ios macos game learning assets ui
-
----
-
-If you'd like, I can also add a basic `LICENSE` file, sample screenshots, or expand the README with architecture notes and development guidelines.
